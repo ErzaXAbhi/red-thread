@@ -76,6 +76,7 @@ li {
   font-size: 15rem;
   text-transform: uppercase;
   font-weight: 400;
+  visibility: hidden;
 }
 
 .hero h1 span {
